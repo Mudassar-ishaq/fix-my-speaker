@@ -1,10 +1,6 @@
 # Using Specific Vibrations: A Deep Look into Phone Speaker Water Removal via Web Apps
 When a phone speaker is exposed to water, it begins to emit a muffled sound. This occurs because the surface tension of the water molecules holds droplets firmly within the speaker grille. An unclear audio stream while watching a video, or a distorted voice during an important call, can be incredibly frustrating.
 Fortunately, web apps offer a simple, non-invasive solution to address this issue; no downloads or sign-ups are required. Below, we will explore the technology behind these tools: Specifically, what vibrations do they use to clean the speaker, which frequency range is safe for mobile devices, and how are these methods effective at forcing the water out?
-<p align="center">
-  <a href="https://fixmyspeakerz.com">
-    <img src="https://fixmyspeakerz.com/wp-content/uploads/2025/12/fix-my-speaker-web-tool.gif" alt="Fix My Speaker Water Removal Tool" width="100%">
-  </a>
 ## Understanding the Simple Science of Pushing Water Out with Sound
 The working science is similar to the Apple smart watch, that uses specific sound vibrations to eject water from speaker holes.
 ### The Right Frequency (165 Hz)

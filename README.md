@@ -16,7 +16,7 @@ Low sound will cause the speaker to shake slowly, not having the power to break 
 Top Eject Water Web Apps and How to Use Them.
 ## Some commonly used speaker cleaner web apps include:
 * [Fix My Speaker](https://fixmyspeakerz.com)
-Speaker Cleaner
+* Speaker Cleaner
 These tools work in a similar way. Follow the steps below for the best results.
 ### Turn Up the Volume
 Increase your phone’s system volume to the maximum level. Higher volume creates stronger sound vibrations, which helps force water out of the speaker grill.

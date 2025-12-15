@@ -23,7 +23,7 @@ Increase your phone’s system volume to the maximum level. Higher volume create
 ### Place the Speaker Side Downward
 Hold your phone so the speaker faces downward. Gravity helps the water move out instead of staying trapped inside.
 ### Run the Sound 
-Start playing the cleaning sound from the * [Web App](https://fixmyspeakerz.com) to eject water. The sound creates vibrations that push water droplets out of the speaker openings. Let it run for the recommended time.
+Start playing the cleaning sound from the [Web App](https://fixmyspeakerz.com) to eject water. The sound creates vibrations that push water droplets out of the speaker openings. Let it run for the recommended time.
 ### Repeat if Needed
 If the sound still feels unclear, repeat the process once or twice. Stubborn moisture may need multiple cycles to fully eject.
 ### Use a Small Tap Gently
@@ -32,5 +32,3 @@ tap the phone against your palm while the speaker is facing down. This can help 
 Play normal audio, music, or a voice note to check the sound quality. If the audio is clear again, the cleaning was successful.
 ## Conclusion:
 Getting moisture in a phone speaker is a common problem, but addressing the issue using specific sound vibrations is safe and secure for your phone as compared to opening tools. You will notice an improvement in sound; if the issue persists, it may be due to a heavy water buildup in the speaker. Try to get professional help to prevent short circuits and corrosion on delicate parts of the speaker.
-## Try It Yourself: Generate a Cleaning Tone with Web Audio API
-If you are curious and want to experiment with creating the vibration sound yourself, here’s a simple JavaScript example using the Web Audio API:
